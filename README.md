@@ -17,7 +17,7 @@ Meant to be a single api with different resources available from its different e
 - Go to this url replacing XXXXXXXXXXXXXXXXXXX with a NIN
 
 ```html
-https://lazy-proxy.herokuapp.com/XXXXXXXXXXXXXXXXXXXXXX
+https://lazy-proxy.herokuapp.com/nin/XXXXXXXXXXXXXXXXXXXXXX
 ```
 
 #
